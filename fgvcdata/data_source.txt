@@ -1,0 +1,3 @@
+fgvc9data:https://www.kaggle.com/competitions/sorghum-id-fgvc-9/data
+fgvc9data_jpeg_format：https://www.kaggle.com/datasets/mithilsalunkhe/small-jpegs-fgvc
+fgvc8data:https://www.kaggle.com/competitions/sorghum-biomass-prediction/data

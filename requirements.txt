@@ -1,0 +1,8 @@
+timm
+tqdm
+transformers
+torchvision
+sklearn
+pytorch_lightning
+albumentations
+torchtoolbox
